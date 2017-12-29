@@ -1,0 +1,15 @@
+{
+  "name": "csproj",
+  "version": "1.0.0",
+  "description": "测试工程",
+  "main": "main.js",
+  "scripts": {
+    "test": "test",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "hcj",
+  "license": "ISC"
+}
